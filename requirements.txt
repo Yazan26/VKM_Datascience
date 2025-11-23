@@ -5,3 +5,7 @@ matplotlib
 scikit-learn
 umap-learn
 nltk
+spacy
+umap-learn
+wordcloud
+nbformat
